@@ -1,0 +1,10 @@
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Ejercicios en C# VSC\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Ejercicios en C# VSC\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Ejercicios en C# VSC\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Ejercicios en C# VSC\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Ejercicios en C# VSC\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio_3.Form1.resources
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Ejercicios en C# VSC\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio_3.Properties.Resources.resources
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Ejercicios en C# VSC\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.GenerateResource.cache
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Ejercicios en C# VSC\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Ejercicios en C# VSC\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Ejercicios en C# VSC\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
