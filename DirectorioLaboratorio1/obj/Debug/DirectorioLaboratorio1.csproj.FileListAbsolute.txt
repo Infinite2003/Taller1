@@ -1,0 +1,7 @@
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Laboratorio1\DirectorioLaboratorio1\bin\Debug\DirectorioLaboratorio1.exe.config
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Laboratorio1\DirectorioLaboratorio1\bin\Debug\DirectorioLaboratorio1.exe
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Laboratorio1\DirectorioLaboratorio1\bin\Debug\DirectorioLaboratorio1.pdb
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Laboratorio1\DirectorioLaboratorio1\obj\Debug\DirectorioLaboratorio1.csproj.AssemblyReference.cache
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Laboratorio1\DirectorioLaboratorio1\obj\Debug\DirectorioLaboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Laboratorio1\DirectorioLaboratorio1\obj\Debug\DirectorioLaboratorio1.exe
+C:\Users\elbas\OneDrive\Escritorio\Laboratorio 1 U 1 Algoritmos\Laboratorio1\DirectorioLaboratorio1\obj\Debug\DirectorioLaboratorio1.pdb
